@@ -23,7 +23,7 @@ public class Fibonacci {
             System.out.print(vn + ", ");
         }
     }
-
+	//bucle while
     public static void fibonacci2(int cantidad) {
         int v0 = 0;
         int v1 = 1;
@@ -38,7 +38,7 @@ public class Fibonacci {
             i++;
         }
     }
-
+	//bucle do
     public static void fibonacci3(int cantidad) {
         int v0 = 0;
         int v1 = 1;
